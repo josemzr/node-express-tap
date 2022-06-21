@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: node-express-tap
+  annotations:
+    github.com/project-slug: josemzr/node-express-tap
+spec:
+  type: other
+  lifecycle: unknown
+  owner: default-org
